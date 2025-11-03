@@ -1,4 +1,4 @@
-# ⚙️ Q-ERO v3 Protocol — Definición Oficial
+<h1 align="center">⚙️ Q-ERO v3 Protocol ⚙️</h1>
 
 <p align="center">
   <img src="images/logo_Q-ERO2.png" alt="Logo Q-ERO v3 Protocol" width="400">
@@ -13,6 +13,8 @@
 - Javier Valenzuela  
 - Karim Valenzuela  
 - Mauricio Narváez
+
+## 🧩 Definición Oficial 
 
 **Q-ERO v3 Protocol** es un equipo de desarrollo y evolución tecnológica inspirado en el profesor **Sebastián Quero**, símbolo del conocimiento, disciplina y ética digital.  
 Representa la unión entre **mente, propósito y código**, y la resistencia ante su opuesto oscuro: **GUI-2**, el proyecto rival del profesor Guido, que busca la supremacía de la máquina sobre la voluntad humana.
