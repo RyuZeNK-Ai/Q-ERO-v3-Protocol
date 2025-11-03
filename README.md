@@ -1,6 +1,6 @@
 # ⚙️ Q-ERO v3 Protocol — Definición Oficial
 
-![Logo Q-ERO v3 Protocol](images/logo_Q-ERO.png)
+![Logo Q-ERO v3 Protocol](images/logo_Q-ERO2.png)
 
 ## Integrantes:
 
