@@ -14,11 +14,11 @@
 - Karim Valenzuela  
 - Mauricio Narváez
 
-##🧩 Definición Oficial
+## 🧩 Definición Oficial
 
 Q-ERO v3 Protocol es un equipo de desarrollo y evolución tecnológica inspirado en el profesor Sebastián Quero, símbolo del conocimiento, disciplina y ética digital.
 Representa la unión entre mente, propósito y código, y la resistencia ante su opuesto oscuro: GUI-2, el proyecto rival del profesor Guido, que busca la supremacía de la máquina sobre la voluntad humana.
-Durante años, ambos coexistieron en una guerra silenciosa de ideales… hasta que algo cambió.
+Durante años, ambos coexistieron en una guerra silenciosa de ideales… hasta que algo cambió.   
 
 ## 🔤 Significado del nombre
 
