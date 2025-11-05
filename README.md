@@ -12,7 +12,6 @@
 - Agustín Valenzuela  
 - Javier Valenzuela  
 - Karim Valenzuela  
-- Mauricio Narváez
 
 ## 🧩 Definición Oficial
 
