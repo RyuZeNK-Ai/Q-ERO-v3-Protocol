@@ -6,7 +6,8 @@
 
 ## Integrantes:
 
-- Washington Mardones  
+- Vicente Diaz
+- Mauricio Narvaez  
 - Anita Morales  
 - Nicolás Peña  
 - Agustín Valenzuela  
